@@ -1,0 +1,6 @@
+{
+  "main": "index.php",
+  "output": "bin/fpm-checker-@git_commit_short@",
+  "chmod": "0755",
+  "compression": "GZ"
+}
